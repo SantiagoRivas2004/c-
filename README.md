@@ -1,2 +1,3 @@
 # c-
-tabla de multiplicar en c++
+numero veradero y falso
+
